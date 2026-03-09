@@ -21,3 +21,14 @@ The Class option here is only used for the icons in the list with toons.
 After you done all of this you can go back to settings and set a default account to show on startup if you prefer.
 
 You should now be able to click on an account at the left and click the arrow at a toon to launch the game and log into that toon.
+
+
+----------------
+
+Launching perfect world might trigger the User Account Control (UAC) every time you start a new client.
+To get rid of this you can start the tool as administrator so it only asks it once when launching the tool.
+
+To do this simply rightclick EPWLauncher.exe, click properties and go the the Compatibility tab.
+Here check "Run this program as an administrator" and click on Ok. (see image below)
+
+<img width="512" height="751" alt="admin" src="https://github.com/user-attachments/assets/b8ccc6f6-bbb2-4709-981b-55a98c45a543" />
