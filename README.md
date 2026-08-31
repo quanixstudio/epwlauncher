@@ -32,3 +32,7 @@ To do this simply rightclick EPWLauncher.exe, click properties and go the the Co
 Here check "Run this program as an administrator" and click on Ok. (see image below)
 
 <img width="512" height="751" alt="admin" src="https://github.com/user-attachments/assets/b8ccc6f6-bbb2-4709-981b-55a98c45a543" />
+
+----------------
+
+<img width="883" height="767" alt="Schermafbeelding 2026-08-31 074153" src="https://github.com/user-attachments/assets/4c089a53-2eaf-43ce-a12c-3faf8eafcbde" />
